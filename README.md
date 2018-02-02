@@ -6,3 +6,6 @@
 ### 2.雷达图
 ![](https://github.com/GuoZhaoHui628/PrimaryCustomView/raw/master/CustomPathTest/111223.gif)
 ![](https://github.com/GuoZhaoHui628/PrimaryCustomView/raw/master/CustomPathTest/QQ截图20171228114756.png)
+<br>
+### 3.矩阵和颜色渲染渐变
+![](https://github.com/GuoZhaoHui628/PrimaryCustomView/raw/master/MyTextView/11.gif)
