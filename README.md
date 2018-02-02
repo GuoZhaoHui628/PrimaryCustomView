@@ -9,3 +9,6 @@
 <br>
 ### 3.矩阵和颜色渲染渐变
 ![](https://github.com/GuoZhaoHui628/PrimaryCustomView/raw/master/MyTextView/11.gif)
+<br>
+### 4.音乐盒
+![](https://github.com/GuoZhaoHui628/PrimaryCustomView/raw/master/MusicLineView/11.gif)
