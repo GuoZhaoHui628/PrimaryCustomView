@@ -14,3 +14,5 @@
 ![](https://github.com/GuoZhaoHui628/PrimaryCustomView/raw/master/MusicLineView/11.gif)
 ### 5.粘性滑动
 ![](https://github.com/GuoZhaoHui628/PrimaryCustomView/raw/master/StickScrollView/11.gif)
+### 6.旋转画布绘制钟表盘
+![](https://github.com/GuoZhaoHui628/PrimaryCustomView/raw/master/WatchSurfaceView/QQ截图20180226134211.png)
